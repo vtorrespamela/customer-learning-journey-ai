@@ -30,6 +30,20 @@ The goal is not to replace the Customer Success Manager.
 
 The goal is to help the CSM think more strategically, identify patterns faster, and design better customer experiences at scale.
 
+## How it works
+
+```mermaid
+flowchart LR
+    A[Customer information] --> B[Customer persona]
+    B --> C[Onboarding journey]
+    C --> D[AI-assisted analysis]
+    D --> E[Personalized recommendations]
+    E --> F[Customer Success action]
+    F --> G[Adoption signals]
+    G --> D
+```
+
+The process is designed as an iterative customer learning journey: customer signals inform the next analysis and help the CSM adjust the experience over time.
 ## What this project demonstrates
 
 This project is an exploration of how AI can support:
