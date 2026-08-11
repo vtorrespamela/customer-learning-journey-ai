@@ -28,7 +28,7 @@ and uses AI to help transform those insights into a more personalized customer l
 
 The goal is not to replace the Customer Success Manager.
 
-The goal is to help the CSM think more strategically, identify patterns faster, and design better experiences at scale.
+The goal is to help the CSM think more strategically, identify patterns faster, and design better customer experiences at scale.
 
 ## What this project demonstrates
 
@@ -47,7 +47,7 @@ I am approaching this project from a Customer Success and learning perspective r
 
 I am particularly interested in the intersection between **customer behavior, learning, communication, and technology**.
 
-This is a work in progress and part of my transition into Customer Success and AI-enabled customer experience.
+This project is part of my transition into Customer Success and AI-enabled customer experience.
 
 ## What I'm learning
 
@@ -83,5 +83,6 @@ Future improvements may include:
 
 ---
 
-**Created by Pâmela Vianna Torres**  
+**Created by Pâmela Vianna Torres**
+
 Customer Success | Customer Education | AI-assisted Customer Experience
