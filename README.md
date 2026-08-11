@@ -61,15 +61,25 @@ Through this project, I am developing practical experience with:
 - Product adoption
 - Translating customer insights into action
 
-## Next steps
+## Current project components
 
-Future iterations may include:
+The project currently includes:
 
 - A sample customer persona
-- An onboarding journey generated from customer inputs
-- AI-generated learning recommendations
-- A simple customer health/adoption scenario
-- A comparison between a generic and personalized onboarding experience
+- A customer onboarding journey
+- An AI-assisted onboarding prompt
+- A customer feedback analysis framework
+- A customer health and adoption framework
+- A Customer Success action plan
+
+## Future iterations
+
+Future improvements may include:
+
+- A comparison between generic and personalized onboarding experiences
+- Additional customer scenarios
+- Expanded AI-assisted recommendations
+- More detailed customer health signals
 
 ---
 
