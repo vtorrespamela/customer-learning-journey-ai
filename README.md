@@ -72,7 +72,20 @@ The project currently includes:
 - A customer health and adoption framework
 - A Customer Success action plan
 
-## Future iterations
+## Explore the project
+
+The project includes the following components:
+
+- [Customer Persona](examples/customer-persona.md) — defines the customer context, goals, challenges, and learning preferences.
+- [Customer Onboarding Journey](examples/fitness-saas-onboarding.md) — maps the onboarding experience for a SaaS customer.
+- [AI-Assisted Onboarding Prompt](examples/ai-prompt.md) — demonstrates how AI can support personalized onboarding recommendations.
+- [Customer Feedback Analysis](customer-feedback-analysis.md) — analyzes customer feedback and identifies potential adoption barriers.
+- [Customer Health & Adoption Framework](examples/customer-health-score.md) — provides a simple framework for monitoring customer health and adoption.
+- [Customer Success Action Plan](examples/customer-success-action-plan.md) — translates customer insights into practical Customer Success actions.
+- [Generic vs. Personalized Onboarding](examples/generic-vs-personalized-onboarding.md) — compares a standard onboarding approach with a personalized experience.
+- [AI-Assisted Onboarding Output](examples/ai-onboarding-output.md) — demonstrates how customer inputs can be transformed into personalized onboarding recommendations.
+  
+- ## Future iterations
 
 Future improvements may include:
 
